@@ -130,8 +130,8 @@ const Contact = () => {
                 <MapPin className="h-8 w-8 text-[#1f7a8c]" />
               </div>
               <h3 className="text-lg font-bold text-gray-900 mb-2">Office</h3>
-              <p className="text-gray-600">123 Event Street</p>
-              <p className="text-gray-600">City Center, NY 10001</p>
+              <p className="text-gray-600">B-540, 1st Floor</p>
+              <p className="text-gray-600">Nehru Ground, FBD 121001</p>
             </div>
 
             <div className="text-center group">

@@ -26,8 +26,6 @@ const Services = () => {
       features: ['Venue Selection', 'Vendor Coordination', 'Timeline Management', 'Day-of Coordination'],
       image: 'https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/wedding-planning',
-      price: 'From $8,000',
-      duration: 'Full Planning'
     },
     {
       icon: Briefcase,
@@ -36,8 +34,6 @@ const Services = () => {
       features: ['Conference Management', 'Team Building Events', 'Product Launches', 'Executive Retreats'],
       image: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/corporate-events',
-      price: 'From $5,000',
-      duration: 'Multi-Day Events'
     },
     {
       icon: Calendar,
@@ -46,8 +42,6 @@ const Services = () => {
       features: ['Theme Development', 'Entertainment Booking', 'Catering Services', 'Decoration Setup'],
       image: 'https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/birthday-parties',
-      price: 'From $2,500',
-      duration: 'All Ages'
     },
     {
       icon: Rocket,
@@ -56,8 +50,6 @@ const Services = () => {
       features: ['Speaker Coordination', 'Registration Management', 'AV Setup', 'Networking Sessions'],
       image: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/conference-management',
-      price: 'From $8,000',
-      duration: 'Multi-Day'
     },
     {
       icon: Rocket,
@@ -66,8 +58,6 @@ const Services = () => {
       features: ['Media Management', 'Influencer Coordination', 'Brand Activation', 'Press Coverage'],
       image: 'https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/product-launches',
-      price: 'From $12,000',
-      duration: 'Campaign Events'
     },
     {
       icon: Users,
@@ -76,8 +66,6 @@ const Services = () => {
       features: ['Reunion Planning', 'Holiday Parties', 'Networking Events', 'Charity Galas'],
       image: 'https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
       link: '/services/social-gatherings',
-      price: 'From $3,500',
-      duration: 'Community Events'
     },
   ];
 
